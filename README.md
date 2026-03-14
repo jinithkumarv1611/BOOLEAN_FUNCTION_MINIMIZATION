@@ -44,6 +44,7 @@ Developed by: RegisterNumber:*/
 
 **RTL**
 
+
 **Timing Diagram**
 
 **Result:**
